@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\bin\Debug\TryingNewThings.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\bin\Debug\TryingNewThings.exe
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\bin\Debug\TryingNewThings.pdb
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\obj\Debug\TryingNewThings.exe
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\obj\Debug\TryingNewThings.pdb
+c:\users\martin\documents\visual studio 2015\Projects\TryingNewThings\obj\Debug\TryingNewThings.csprojResolveAssemblyReference.cache
